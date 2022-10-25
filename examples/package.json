@@ -1,0 +1,15 @@
+{
+  "name": "@z-plus/examples",
+  "private": true,
+  "description": "",
+  "main": "indexjs",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8"
+  }
+}

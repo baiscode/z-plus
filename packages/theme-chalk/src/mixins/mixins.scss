@@ -1,0 +1,4 @@
+// 声明一些公共的 scss 方法
+@use 'config' as *;
+// 将 config 转变为全局变量
+@forward 'config';

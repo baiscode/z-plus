@@ -1,0 +1,5 @@
+@use './mixins/mixins.scss' as *;
+
+.#{$namespace}-icon {
+    margin: 5px 10px;
+}
